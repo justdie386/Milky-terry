@@ -37,5 +37,5 @@ client:on("interactionCreate", function(interaction)
     interaction.member:addRole("829444502161850478")
     interaction:reply("Success") 
 end)
-
+ --damn im good at this
   client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.GkcfYo.Uxd2Pw6CmvbJDeZf713JVUp7wOcNENyTCaZcw0")

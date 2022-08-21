@@ -366,3 +366,82 @@
 2022-08-21 15:28:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-08-21 15:28:09 | [INFO]    | Shard 0 : Received HELLO
 2022-08-21 15:28:09 | [INFO]    | Shard 0 : Received RESUMED
+2022-08-21 15:49:13 | [WARNING] | Shard 0 : 4003 - Not authenticated.
+2022-08-21 15:49:13 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:49:13 | [INFO]    | Shard 0 : Reconnecting after 910 ms...
+2022-08-21 15:49:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:49:14 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:49:14 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-08-21 15:49:17 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:49:17 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:49:17 | [INFO]    | Shard 0 : Reconnecting after 1967 ms...
+2022-08-21 15:49:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:49:19 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:49:24 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:49:24 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:49:24 | [INFO]    | Shard 0 : Reconnecting after 4001 ms...
+2022-08-21 15:49:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:49:28 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:49:32 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:49:32 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:49:32 | [INFO]    | Shard 0 : Reconnecting after 8521 ms...
+2022-08-21 15:49:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:49:40 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:49:41 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:49:41 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:49:41 | [INFO]    | Shard 0 : Reconnecting after 14595 ms...
+2022-08-21 15:49:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:49:55 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:49:55 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:49:55 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:49:55 | [INFO]    | Shard 0 : Reconnecting after 33733 ms...
+2022-08-21 15:50:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:50:29 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:50:29 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:50:29 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:50:29 | [INFO]    | Shard 0 : Reconnecting after 59873 ms...
+2022-08-21 15:51:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:51:29 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:51:29 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:51:29 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:51:29 | [INFO]    | Shard 0 : Reconnecting after 59417 ms...
+2022-08-21 15:52:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:52:29 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:52:29 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:52:29 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:52:29 | [INFO]    | Shard 0 : Reconnecting after 55668 ms...
+2022-08-21 15:53:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:53:25 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:53:25 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:53:25 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:53:25 | [INFO]    | Shard 0 : Reconnecting after 56283 ms...
+2022-08-21 15:54:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:54:21 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:54:22 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:54:22 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:54:22 | [INFO]    | Shard 0 : Reconnecting after 62510 ms...
+2022-08-21 15:55:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:55:24 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:55:24 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:55:24 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:55:24 | [INFO]    | Shard 0 : Reconnecting after 58065 ms...
+2022-08-21 15:56:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:56:22 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:56:23 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:56:23 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:56:23 | [INFO]    | Shard 0 : Reconnecting after 55161 ms...
+2022-08-21 15:57:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:57:18 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:57:18 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:57:18 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:57:18 | [INFO]    | Shard 0 : Reconnecting after 57257 ms...
+2022-08-21 15:58:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:58:15 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:58:16 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:58:16 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:58:16 | [INFO]    | Shard 0 : Reconnecting after 58172 ms...
+2022-08-21 15:59:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 15:59:14 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 15:59:14 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-21 15:59:14 | [INFO]    | Shard 0 : Disconnected
+2022-08-21 15:59:14 | [INFO]    | Shard 0 : Reconnecting after 62373 ms...
