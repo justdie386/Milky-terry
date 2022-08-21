@@ -46,5 +46,5 @@ client:on("interactionCreate", function(interaction)
   end
 end)
 print("hell")
- --damn im good at this HELP ME
+ --damn im good at this HELP ME why am i doing this
   client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.GVVdrp.hGQajuHTyUy7-OEViQtYiCxx2lZ_9I6f-qzqwk")
