@@ -621,3 +621,14 @@
 2022-08-21 18:07:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-08-21 18:07:00 | [INFO]    | Shard 0 : Received HELLO
 2022-08-21 18:07:00 | [INFO]    | Shard 0 : Received READY
+2022-08-21 19:53:59 | [INFO]    | Discordia 2.9.2
+2022-08-21 19:53:59 | [INFO]    | Connecting to Discord...
+2022-08-21 19:53:59 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-08-21 19:53:59 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-08-21 19:54:16 | [INFO]    | Discordia 2.9.2
+2022-08-21 19:54:16 | [INFO]    | Connecting to Discord...
+2022-08-21 19:54:16 | [INFO]    | Authenticated as altacc#9830
+2022-08-21 19:54:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-21 19:54:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-21 19:54:16 | [INFO]    | Shard 0 : Received HELLO
+2022-08-21 19:54:16 | [INFO]    | Shard 0 : Received READY

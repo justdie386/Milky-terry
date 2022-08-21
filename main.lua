@@ -45,6 +45,4 @@ client:on("interactionCreate", function(interaction)
     interaction:reply("You already have those roles")
   end
 end)
-print("hell")
- --damn im good at this HELP ME why am i doing this
-  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.GVVdrp.hGQajuHTyUy7-OEViQtYiCxx2lZ_9I6f-qzqwk")
+  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.G80Sx2.0hluQv2jWeLGSCuaiNBu74G4KmNvHVonC3_79s")
