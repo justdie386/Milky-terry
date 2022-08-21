@@ -19,6 +19,7 @@ local roly = discordia.Components {
 
   client:on("messageCreate", function(message)
     if message.content == "%init" then
+      if message.member:hasRole("829444502161850478") == true then
         message.channel:send {
             embed = {
               title = "How to use",
@@ -31,12 +32,19 @@ local roly = discordia.Components {
             }
           }
         message:replyComponents("", roly)
+        else
+          message:reply("You don't have the permission to use the command")
     end
+  end
 end)
 client:on("interactionCreate", function(interaction)
+  if interaction.member:hasRole("829444502161850478") ~= true then
     interaction.member:addRole("829444502161850478")
-    interaction:reply("Success") 
+    interaction:reply("Success")
+  else 
+    interaction:reply("You already have those roles")
+  end
 end)
 print("hell")
  --damn im good at this HELP ME
-  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.GkcfYo.Uxd2Pw6CmvbJDeZf713JVUp7wOcNENyTCaZcw0")
+  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.GVVdrp.hGQajuHTyUy7-OEViQtYiCxx2lZ_9I6f-qzqwk")
