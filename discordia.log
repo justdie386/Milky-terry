@@ -839,3 +839,70 @@
 2022-08-22 11:45:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-08-22 11:45:04 | [INFO]    | Shard 0 : Received HELLO
 2022-08-22 11:45:04 | [INFO]    | Shard 0 : Received READY
+2022-08-22 11:51:04 | [INFO]    | Discordia 2.9.2
+2022-08-22 11:51:04 | [INFO]    | Connecting to Discord...
+2022-08-22 11:51:04 | [INFO]    | Authenticated as Ba-Bot#9830
+2022-08-22 11:51:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 11:51:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 11:51:04 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 11:51:04 | [INFO]    | Shard 0 : Received READY
+2022-08-22 11:59:31 | [ERROR]   | 404 - Not Found : POST https://discord.com/api/v7/interactions/1011303587210600588/aW50ZXJhY3Rpb246MTAxMTMwMzU4NzIxMDYwMDU4ODpCdURxdW5LZFBSOEFDRTJxVThLcEcxYnVKOU9NVHBaVGFjSTVVWTV3dmVZdFE1cEJRaVUwVHd4M1RVWVh4cnR1SnRvbFdxUzZZaGNraVIxVmljQ2JpcWdJZ25ySUhsamN1eEM5QlQ1RzBYVDhWZjRBamJFVHRSeWtoZ0tCdDk1Qg/callback
+2022-08-22 12:17:26 | [INFO]    | Discordia 2.9.2
+2022-08-22 12:17:26 | [INFO]    | Connecting to Discord...
+2022-08-22 12:17:27 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 12:17:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 12:17:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 12:17:27 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 12:17:27 | [INFO]    | Shard 0 : Received READY
+2022-08-22 12:22:27 | [INFO]    | Discordia 2.9.2
+2022-08-22 12:22:27 | [INFO]    | Connecting to Discord...
+2022-08-22 12:22:27 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 12:22:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 12:22:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 12:22:28 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 12:22:28 | [INFO]    | Shard 0 : Received READY
+2022-08-22 12:23:15 | [INFO]    | Discordia 2.9.2
+2022-08-22 12:23:15 | [INFO]    | Connecting to Discord...
+2022-08-22 12:23:15 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 12:23:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 12:23:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 12:23:16 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 12:23:16 | [INFO]    | Shard 0 : Received READY
+2022-08-22 12:25:19 | [INFO]    | Discordia 2.9.2
+2022-08-22 12:25:19 | [INFO]    | Connecting to Discord...
+2022-08-22 12:25:19 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 12:25:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 12:25:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 12:25:19 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 12:25:19 | [INFO]    | Shard 0 : Received READY
+2022-08-22 12:26:53 | [INFO]    | Discordia 2.9.2
+2022-08-22 12:26:53 | [INFO]    | Connecting to Discord...
+2022-08-22 12:26:53 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 12:26:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 12:26:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 12:26:53 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 12:26:53 | [INFO]    | Shard 0 : Received READY
+2022-08-22 12:29:20 | [INFO]    | Discordia 2.9.2
+2022-08-22 12:29:20 | [INFO]    | Connecting to Discord...
+2022-08-22 12:29:21 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 12:29:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 12:29:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 12:29:21 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 12:29:21 | [INFO]    | Shard 0 : Received READY
+2022-08-22 12:30:23 | [INFO]    | Discordia 2.9.2
+2022-08-22 12:30:23 | [INFO]    | Connecting to Discord...
+2022-08-22 12:30:23 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 12:30:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 12:30:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 12:30:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 12:30:24 | [INFO]    | Shard 0 : Received READY
+2022-08-22 12:30:30 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517
+2022-08-22 12:31:41 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517
+2022-08-22 12:32:03 | [INFO]    | Discordia 2.9.2
+2022-08-22 12:32:03 | [INFO]    | Connecting to Discord...
+2022-08-22 12:32:03 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 12:32:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 12:32:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 12:32:03 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 12:32:04 | [INFO]    | Shard 0 : Received READY
+2022-08-22 12:32:07 | [ERROR]   | 403 - Forbidden : PATCH https://discord.com/api/v7/guilds/802914516542554153/members/693248958306451517

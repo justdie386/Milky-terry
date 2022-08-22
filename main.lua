@@ -3,6 +3,11 @@ local client = discordia.Client()
 local sql = require "sqlite3"
 local conn = sql.open("data.sqlite")
 require("discordia-components")
+discordia.extensions()
+client:on('ready', function()
+  client:setGame(" enlisting the 35th since 1717")
+
+end)
 
 local roly = discordia.Components {
     {
@@ -44,14 +49,13 @@ local roly = discordia.Components {
 end)
 client:on("interactionCreate", function(interaction)
   --make it so when the button is pressed the user's id, the user's name and the time is stored in the database
-  if interaction.type == "button" and interaction.id == "role" then
     local id = interaction.user.id
     local name = interaction.user.name
     local time = discordia.Date():toISO('T', 'Z')
-    interaction:reply("You have been added to the database")
-  end
+    
   local logsChannel, err = client:getChannel("1011291374232018996")
   if interaction.member:hasRole("829444502161850478") ~= true then
+    interaction.member:setNickname("[35th] "..interaction.user.name)
     interaction.member:addRole("829444502161850478")
     interaction:reply("Success")
     Creator = interaction.member.name
@@ -64,4 +68,4 @@ client:on("interactionCreate", function(interaction)
     interaction:reply("You already have those roles")
   end
 end)
-  client:run("Bot ")
+  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.Guvw_k.QeD5-YZsO6JuJnc1URv-n4_6WXfbF5_NeAx-S4")
