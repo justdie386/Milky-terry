@@ -21,12 +21,17 @@ local roly = discordia.Components {
   }
 
   client:on("messageCreate", function(message)
-    if message.content == "%log" then
-      local wtf = message.member.voiceChannel.connectedMembers:iter()
-      for member in message.member.voiceChannel.connectedMembers:iter() do
+    local content = message.content
+    local args = message.content
+    local args = content:split(" ")
+    if args[1] == "%log" then
+      for member in message.member.voiceChannel.connectedMembers:iter() do        
         Member = member.name
-        print(member.name)
-      end
+        table.remove(args, 1)
+        local event = (table.concat(args, " "))
+        message:reply(event)
+        message:reply(member.name)
+    end
     end
     if message.content == "%init" then
       if message.member:hasRole("829444502161850478") == true then
@@ -63,7 +68,17 @@ client:on("interactionCreate", function(interaction)
     interaction:reply("Success")
     Creator = interaction.member.name
     local time = (os.date ("%c"))
-    logsChannel:send(tostring(Creator).." has been roled the "..tostring(time).." EST")
+    logsChannel:send {
+      embed = {
+        title = "New recruit",
+        fields = {
+          {name = "Who", value = tostring(Creator), inline = false},
+          {name = "When", value = tostring(time), inline = false},
+        },
+        color = discordia.Color.fromRGB(114, 137, 218).value,
+        timestamp = discordia.Date():toISO('T', 'Z')
+      }
+    }
     local id = interaction.user.id
     local name = interaction.user.name
     conn:exec("INSERT OR IGNORE INTO data (id, name, time) VALUES('" .. id .. "','" .. name .. "','" .. time .. "')")
@@ -74,5 +89,7 @@ end)
 
 
 
-
+  client:on('ready', function()
+  client:setGame("Enlisting the 35th since 1700")
+  end)
   client:run("Bot ")
