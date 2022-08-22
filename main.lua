@@ -1,5 +1,7 @@
 local discordia = require("discordia")
 local client = discordia.Client()
+local sql = require "sqlite3"
+local conn = sql.open("data.sqlite")
 require("discordia-components")
 
 local roly = discordia.Components {
@@ -41,6 +43,13 @@ local roly = discordia.Components {
   end
 end)
 client:on("interactionCreate", function(interaction)
+  --make it so when the button is pressed the user's id, the user's name and the time is stored in the database
+  if interaction.type == "button" and interaction.id == "role" then
+    local id = interaction.user.id
+    local name = interaction.user.name
+    local time = discordia.Date():toISO('T', 'Z')
+    interaction:reply("You have been added to the database")
+  end
   local logsChannel, err = client:getChannel("1011291374232018996")
   if interaction.member:hasRole("829444502161850478") ~= true then
     interaction.member:addRole("829444502161850478")
@@ -48,8 +57,11 @@ client:on("interactionCreate", function(interaction)
     Creator = interaction.member.name
     local time = (os.date ("%c"))
     logsChannel:send(tostring(Creator).." has been roled the "..tostring(time).." EST")
+    local id = interaction.user.id
+    local name = interaction.user.name
+    conn:exec("INSERT OR IGNORE INTO data (id, name, time) VALUES('" .. id .. "','" .. name .. "','" .. time .. "')")
     else 
     interaction:reply("You already have those roles")
   end
 end)
-  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.G0g4mG.6-nH92mY7cILkxZPnzYy8q_QDEopW0yjhPXKB0")
+  client:run("Bot ")
