@@ -4,7 +4,7 @@ local sql = require "sqlite3"
 local conn = sql.open("data.sqlite")
 require("discordia-components")
 discordia.extensions()
-
+filewrite = io.open("logs.txt")
 local roly = discordia.Components {
     {
       type = 'button',
@@ -24,7 +24,8 @@ local roly = discordia.Components {
     if message.content == "%log" then
       local wtf = message.member.voiceChannel.connectedMembers:iter()
       for member in message.member.voiceChannel.connectedMembers:iter() do
-        print(member)
+        Member = member.name
+        print(member.name)
       end
     end
     if message.content == "%init" then
@@ -70,7 +71,8 @@ client:on("interactionCreate", function(interaction)
     interaction:reply("You already have those roles")
   end
 end)
-  
 
 
-  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.GE2Cf_.yq52JGwX9w3k4MLGAE78-KQDXukA-ZK_p9wxYI")
+
+
+  client:run("Bot ")

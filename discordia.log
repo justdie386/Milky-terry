@@ -1167,3 +1167,752 @@
 2022-08-22 15:19:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-08-22 15:19:21 | [INFO]    | Shard 0 : Received HELLO
 2022-08-22 15:19:21 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:21:00 | [WARNING] | Shard 0 : 4003 - Not authenticated.
+2022-08-22 15:21:00 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:21:00 | [INFO]    | Shard 0 : Reconnecting after 987 ms...
+2022-08-22 15:21:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:21:01 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:21:01 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2022-08-22 15:21:06 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:21:06 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:21:06 | [INFO]    | Shard 0 : Reconnecting after 2182 ms...
+2022-08-22 15:21:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:21:08 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:21:13 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:21:13 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:21:13 | [INFO]    | Shard 0 : Reconnecting after 3922 ms...
+2022-08-22 15:21:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:21:17 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:21:21 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:21:21 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:21:21 | [INFO]    | Shard 0 : Reconnecting after 7689 ms...
+2022-08-22 15:21:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:21:28 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:21:28 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:21:28 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:21:28 | [INFO]    | Shard 0 : Reconnecting after 15597 ms...
+2022-08-22 15:21:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:21:44 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:21:44 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:21:44 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:21:44 | [INFO]    | Shard 0 : Reconnecting after 32031 ms...
+2022-08-22 15:22:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:22:16 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:22:17 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:22:17 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:22:17 | [INFO]    | Shard 0 : Reconnecting after 60352 ms...
+2022-08-22 15:23:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:23:17 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:23:17 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:23:17 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:23:17 | [INFO]    | Shard 0 : Reconnecting after 62352 ms...
+2022-08-22 15:24:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:24:20 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:24:20 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:24:20 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:24:20 | [INFO]    | Shard 0 : Reconnecting after 64279 ms...
+2022-08-22 15:24:44 | [INFO]    | Discordia 2.9.2
+2022-08-22 15:24:44 | [INFO]    | Connecting to Discord...
+2022-08-22 15:24:44 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 15:24:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 15:24:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:24:44 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:24:44 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:25:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:25:24 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:25:25 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:25:25 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:25:25 | [INFO]    | Shard 0 : Reconnecting after 63878 ms...
+2022-08-22 15:26:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:26:29 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:26:29 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:26:29 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:26:29 | [INFO]    | Shard 0 : Reconnecting after 57047 ms...
+2022-08-22 15:26:31 | [INFO]    | Discordia 2.9.2
+2022-08-22 15:26:31 | [INFO]    | Connecting to Discord...
+2022-08-22 15:26:32 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 15:26:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 15:26:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:26:32 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:26:32 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:26:50 | [INFO]    | Discordia 2.9.2
+2022-08-22 15:26:50 | [INFO]    | Connecting to Discord...
+2022-08-22 15:26:50 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 15:26:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 15:26:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:26:50 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:26:50 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:27:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:27:26 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:27:26 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:27:26 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:27:26 | [INFO]    | Shard 0 : Reconnecting after 56674 ms...
+2022-08-22 15:27:33 | [INFO]    | Discordia 2.9.2
+2022-08-22 15:27:33 | [INFO]    | Connecting to Discord...
+2022-08-22 15:27:33 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 15:27:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 15:27:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:27:34 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:27:34 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:27:44 | [INFO]    | Discordia 2.9.2
+2022-08-22 15:27:44 | [INFO]    | Connecting to Discord...
+2022-08-22 15:27:45 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 15:27:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 15:27:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:27:45 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:27:45 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:28:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:28:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:28:23 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:28:23 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:28:23 | [INFO]    | Shard 0 : Reconnecting after 60985 ms...
+2022-08-22 15:29:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:29:24 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:29:24 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:29:24 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:29:24 | [INFO]    | Shard 0 : Reconnecting after 61337 ms...
+2022-08-22 15:30:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:30:25 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:30:26 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:30:26 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:30:26 | [INFO]    | Shard 0 : Reconnecting after 57104 ms...
+2022-08-22 15:31:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:31:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:31:23 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:31:23 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:31:23 | [INFO]    | Shard 0 : Reconnecting after 65982 ms...
+2022-08-22 15:32:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:32:29 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:32:29 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:32:29 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:32:29 | [INFO]    | Shard 0 : Reconnecting after 64871 ms...
+2022-08-22 15:33:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:33:34 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:33:34 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:33:34 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:33:34 | [INFO]    | Shard 0 : Reconnecting after 64988 ms...
+2022-08-22 15:34:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:34:39 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:34:40 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:34:40 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:34:40 | [INFO]    | Shard 0 : Reconnecting after 59335 ms...
+2022-08-22 15:35:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:35:39 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:35:39 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:35:39 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:35:39 | [INFO]    | Shard 0 : Reconnecting after 59676 ms...
+2022-08-22 15:36:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:36:39 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:36:39 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:36:39 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:36:39 | [INFO]    | Shard 0 : Reconnecting after 59276 ms...
+2022-08-22 15:37:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:37:38 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:37:39 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:37:39 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:37:39 | [INFO]    | Shard 0 : Reconnecting after 57572 ms...
+2022-08-22 15:38:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:38:36 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:38:36 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:38:36 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:38:36 | [INFO]    | Shard 0 : Reconnecting after 55315 ms...
+2022-08-22 15:39:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:39:32 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:39:32 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:39:32 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:39:32 | [INFO]    | Shard 0 : Reconnecting after 56185 ms...
+2022-08-22 15:40:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:40:28 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:40:28 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:40:28 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:40:28 | [INFO]    | Shard 0 : Reconnecting after 62145 ms...
+2022-08-22 15:41:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:41:31 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:41:31 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:41:31 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:41:31 | [INFO]    | Shard 0 : Reconnecting after 56407 ms...
+2022-08-22 15:42:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:42:27 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:42:27 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:42:27 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:42:27 | [INFO]    | Shard 0 : Reconnecting after 64165 ms...
+2022-08-22 15:43:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:43:32 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:43:32 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:43:32 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:43:32 | [INFO]    | Shard 0 : Reconnecting after 56813 ms...
+2022-08-22 15:44:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:44:29 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:44:29 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:44:29 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:44:29 | [INFO]    | Shard 0 : Reconnecting after 61600 ms...
+2022-08-22 15:45:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:45:31 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:45:31 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:45:31 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:45:31 | [INFO]    | Shard 0 : Reconnecting after 63946 ms...
+2022-08-22 15:46:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:46:35 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:46:35 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:46:35 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:46:35 | [INFO]    | Shard 0 : Reconnecting after 55640 ms...
+2022-08-22 15:47:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:47:31 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:47:31 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:47:31 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:47:31 | [INFO]    | Shard 0 : Reconnecting after 56277 ms...
+2022-08-22 15:48:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:48:27 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:48:27 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:48:27 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:48:27 | [INFO]    | Shard 0 : Reconnecting after 65132 ms...
+2022-08-22 15:49:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:49:33 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:49:33 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:49:33 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:49:33 | [INFO]    | Shard 0 : Reconnecting after 65136 ms...
+2022-08-22 15:50:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:50:38 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:50:38 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:50:38 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:50:38 | [INFO]    | Shard 0 : Reconnecting after 54240 ms...
+2022-08-22 15:51:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:51:33 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:51:33 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:51:33 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:51:33 | [INFO]    | Shard 0 : Reconnecting after 61975 ms...
+2022-08-22 15:52:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:52:35 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:52:35 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:52:35 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:52:35 | [INFO]    | Shard 0 : Reconnecting after 61381 ms...
+2022-08-22 15:53:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:53:36 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:53:36 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:53:36 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:53:36 | [INFO]    | Shard 0 : Reconnecting after 55473 ms...
+2022-08-22 15:54:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:54:32 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:54:32 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:54:32 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:54:32 | [INFO]    | Shard 0 : Reconnecting after 64285 ms...
+2022-08-22 15:55:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:55:37 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:55:37 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:55:37 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:55:37 | [INFO]    | Shard 0 : Reconnecting after 54597 ms...
+2022-08-22 15:56:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:56:31 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:56:32 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:56:32 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:56:32 | [INFO]    | Shard 0 : Reconnecting after 58897 ms...
+2022-08-22 15:57:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:57:31 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:57:31 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:57:31 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:57:31 | [INFO]    | Shard 0 : Reconnecting after 60100 ms...
+2022-08-22 15:57:37 | [INFO]    | Discordia 2.9.2
+2022-08-22 15:57:37 | [INFO]    | Connecting to Discord...
+2022-08-22 15:57:38 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 15:57:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 15:57:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:57:38 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:57:38 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:57:53 | [INFO]    | Discordia 2.9.2
+2022-08-22 15:57:53 | [INFO]    | Connecting to Discord...
+2022-08-22 15:57:54 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 15:57:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 15:57:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:57:54 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:57:54 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:58:01 | [INFO]    | Discordia 2.9.2
+2022-08-22 15:58:01 | [INFO]    | Connecting to Discord...
+2022-08-22 15:58:01 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 15:58:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 15:58:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:58:01 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:58:02 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:58:22 | [INFO]    | Discordia 2.9.2
+2022-08-22 15:58:22 | [INFO]    | Connecting to Discord...
+2022-08-22 15:58:22 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 15:58:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 15:58:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:58:22 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:58:22 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:58:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:58:31 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:58:31 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:58:31 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:58:31 | [INFO]    | Shard 0 : Reconnecting after 54035 ms...
+2022-08-22 15:58:43 | [INFO]    | Discordia 2.9.2
+2022-08-22 15:58:43 | [INFO]    | Connecting to Discord...
+2022-08-22 15:58:43 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 15:58:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 15:58:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:58:43 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:58:43 | [INFO]    | Shard 0 : Received READY
+2022-08-22 15:59:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 15:59:25 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 15:59:25 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 15:59:25 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 15:59:25 | [INFO]    | Shard 0 : Reconnecting after 56822 ms...
+2022-08-22 16:00:04 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:00:04 | [INFO]    | Connecting to Discord...
+2022-08-22 16:00:04 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:00:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:00:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:00:04 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:00:04 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:00:22 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:00:22 | [INFO]    | Connecting to Discord...
+2022-08-22 16:00:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:00:22 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:00:22 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:00:22 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:00:22 | [INFO]    | Shard 0 : Reconnecting after 59927 ms...
+2022-08-22 16:00:23 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:00:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:00:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:00:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:00:23 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:01:04 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:01:04 | [INFO]    | Connecting to Discord...
+2022-08-22 16:01:04 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:01:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:01:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:01:04 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:01:05 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:01:21 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:01:21 | [INFO]    | Connecting to Discord...
+2022-08-22 16:01:21 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:01:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:01:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:01:21 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:01:22 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:01:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:01:22 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:01:22 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:01:22 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:01:22 | [INFO]    | Shard 0 : Reconnecting after 57895 ms...
+2022-08-22 16:01:51 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:01:51 | [INFO]    | Connecting to Discord...
+2022-08-22 16:01:51 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:01:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:01:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:01:51 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:01:51 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:02:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:02:21 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:02:21 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:02:21 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:02:21 | [INFO]    | Shard 0 : Reconnecting after 57198 ms...
+2022-08-22 16:03:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:03:18 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:03:18 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:03:18 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:03:18 | [INFO]    | Shard 0 : Reconnecting after 57129 ms...
+2022-08-22 16:04:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:04:15 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:04:15 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:04:15 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:04:15 | [INFO]    | Shard 0 : Reconnecting after 61800 ms...
+2022-08-22 16:05:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:05:17 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:05:17 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:05:17 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:05:17 | [INFO]    | Shard 0 : Reconnecting after 59693 ms...
+2022-08-22 16:06:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:06:17 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:06:17 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:06:17 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:06:17 | [INFO]    | Shard 0 : Reconnecting after 65809 ms...
+2022-08-22 16:07:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:07:24 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:07:24 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:07:24 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:07:24 | [INFO]    | Shard 0 : Reconnecting after 59021 ms...
+2022-08-22 16:08:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:08:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:08:23 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:08:23 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:08:23 | [INFO]    | Shard 0 : Reconnecting after 55627 ms...
+2022-08-22 16:09:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:09:19 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:09:19 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:09:19 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:09:19 | [INFO]    | Shard 0 : Reconnecting after 63997 ms...
+2022-08-22 16:10:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:10:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:10:23 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:10:23 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:10:23 | [INFO]    | Shard 0 : Reconnecting after 63773 ms...
+2022-08-22 16:11:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:11:27 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:11:27 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:11:27 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:11:27 | [INFO]    | Shard 0 : Reconnecting after 59664 ms...
+2022-08-22 16:12:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:12:27 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:12:27 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:12:27 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:12:27 | [INFO]    | Shard 0 : Reconnecting after 58586 ms...
+2022-08-22 16:13:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:13:26 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:13:26 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:13:26 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:13:26 | [INFO]    | Shard 0 : Reconnecting after 65776 ms...
+2022-08-22 16:14:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:14:32 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:14:32 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:14:32 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:14:32 | [INFO]    | Shard 0 : Reconnecting after 62615 ms...
+2022-08-22 16:15:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:15:35 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:15:35 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:15:35 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:15:35 | [INFO]    | Shard 0 : Reconnecting after 60473 ms...
+2022-08-22 16:15:43 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:15:43 | [INFO]    | Connecting to Discord...
+2022-08-22 16:15:43 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:15:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:15:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:15:43 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:15:43 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:15:56 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:15:56 | [INFO]    | Connecting to Discord...
+2022-08-22 16:15:56 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:15:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:15:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:15:56 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:15:57 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:16:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:16:35 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:16:35 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:16:35 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:16:35 | [INFO]    | Shard 0 : Reconnecting after 65946 ms...
+2022-08-22 16:17:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:17:41 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:17:42 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:17:42 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:17:42 | [INFO]    | Shard 0 : Reconnecting after 56200 ms...
+2022-08-22 16:18:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:18:38 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:18:38 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:18:38 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:18:38 | [INFO]    | Shard 0 : Reconnecting after 58283 ms...
+2022-08-22 16:18:41 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:18:41 | [INFO]    | Connecting to Discord...
+2022-08-22 16:18:41 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:18:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:18:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:18:41 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:18:41 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:19:17 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:19:17 | [INFO]    | Connecting to Discord...
+2022-08-22 16:19:17 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:19:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:19:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:19:17 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:19:18 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:19:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:19:36 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:19:36 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:19:36 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:19:36 | [INFO]    | Shard 0 : Reconnecting after 63173 ms...
+2022-08-22 16:20:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:20:40 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:20:40 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:20:40 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:20:40 | [INFO]    | Shard 0 : Reconnecting after 65281 ms...
+2022-08-22 16:21:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:21:45 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:21:45 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:21:45 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:21:45 | [INFO]    | Shard 0 : Reconnecting after 62933 ms...
+2022-08-22 16:22:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:22:48 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:22:48 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:22:48 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:22:48 | [INFO]    | Shard 0 : Reconnecting after 60579 ms...
+2022-08-22 16:23:13 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:23:13 | [INFO]    | Connecting to Discord...
+2022-08-22 16:23:13 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:23:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:23:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:23:14 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:23:14 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:23:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:23:49 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:23:49 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:23:49 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:23:49 | [INFO]    | Shard 0 : Reconnecting after 61102 ms...
+2022-08-22 16:24:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:24:50 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:24:51 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:24:51 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:24:51 | [INFO]    | Shard 0 : Reconnecting after 56127 ms...
+2022-08-22 16:25:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:25:47 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:25:47 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:25:47 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:25:47 | [INFO]    | Shard 0 : Reconnecting after 64775 ms...
+2022-08-22 16:26:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:26:52 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:26:52 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:26:52 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:26:52 | [INFO]    | Shard 0 : Reconnecting after 60186 ms...
+2022-08-22 16:27:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:27:52 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:27:52 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:27:52 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:27:52 | [INFO]    | Shard 0 : Reconnecting after 65030 ms...
+2022-08-22 16:28:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:28:57 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:28:58 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:28:58 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:28:58 | [INFO]    | Shard 0 : Reconnecting after 65175 ms...
+2022-08-22 16:30:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:30:03 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:30:03 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:30:03 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:30:03 | [INFO]    | Shard 0 : Reconnecting after 59106 ms...
+2022-08-22 16:31:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:31:02 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:31:02 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:31:02 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:31:02 | [INFO]    | Shard 0 : Reconnecting after 65736 ms...
+2022-08-22 16:32:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:32:08 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:32:08 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:32:08 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:32:08 | [INFO]    | Shard 0 : Reconnecting after 65188 ms...
+2022-08-22 16:33:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:33:14 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:33:14 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:33:14 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:33:14 | [INFO]    | Shard 0 : Reconnecting after 63880 ms...
+2022-08-22 16:34:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:34:18 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:34:18 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:34:18 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:34:18 | [INFO]    | Shard 0 : Reconnecting after 58267 ms...
+2022-08-22 16:35:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:35:16 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:35:16 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:35:16 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:35:16 | [INFO]    | Shard 0 : Reconnecting after 56179 ms...
+2022-08-22 16:36:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:36:13 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:36:13 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:36:13 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:36:13 | [INFO]    | Shard 0 : Reconnecting after 64240 ms...
+2022-08-22 16:37:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:37:17 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:37:17 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:37:17 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:37:17 | [INFO]    | Shard 0 : Reconnecting after 63383 ms...
+2022-08-22 16:38:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:38:21 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:38:21 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:38:21 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:38:21 | [INFO]    | Shard 0 : Reconnecting after 62907 ms...
+2022-08-22 16:39:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:39:24 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:39:24 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:39:24 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:39:24 | [INFO]    | Shard 0 : Reconnecting after 56487 ms...
+2022-08-22 16:40:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:40:21 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:40:21 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:40:21 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:40:21 | [INFO]    | Shard 0 : Reconnecting after 65032 ms...
+2022-08-22 16:41:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:41:26 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:41:26 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:41:26 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:41:26 | [INFO]    | Shard 0 : Reconnecting after 63319 ms...
+2022-08-22 16:42:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:42:29 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:42:29 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:42:29 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:42:29 | [INFO]    | Shard 0 : Reconnecting after 58754 ms...
+2022-08-22 16:43:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:43:28 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:43:28 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:43:28 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:43:28 | [INFO]    | Shard 0 : Reconnecting after 60558 ms...
+2022-08-22 16:44:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:44:29 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:44:29 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:44:29 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:44:29 | [INFO]    | Shard 0 : Reconnecting after 60512 ms...
+2022-08-22 16:45:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:45:30 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:45:30 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:45:30 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:45:30 | [INFO]    | Shard 0 : Reconnecting after 64645 ms...
+2022-08-22 16:46:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:46:35 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:46:35 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:46:35 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:46:35 | [INFO]    | Shard 0 : Reconnecting after 56070 ms...
+2022-08-22 16:47:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:47:31 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:47:31 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:47:31 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:47:31 | [INFO]    | Shard 0 : Reconnecting after 57850 ms...
+2022-08-22 16:48:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:48:29 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:48:29 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:48:29 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:48:29 | [INFO]    | Shard 0 : Reconnecting after 54962 ms...
+2022-08-22 16:49:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:49:25 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:49:25 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:49:25 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:49:25 | [INFO]    | Shard 0 : Reconnecting after 58617 ms...
+2022-08-22 16:50:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:50:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:50:23 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:50:23 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:50:23 | [INFO]    | Shard 0 : Reconnecting after 60644 ms...
+2022-08-22 16:51:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:51:24 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:51:24 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:51:24 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:51:24 | [INFO]    | Shard 0 : Reconnecting after 57751 ms...
+2022-08-22 16:51:29 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:51:29 | [INFO]    | Connecting to Discord...
+2022-08-22 16:51:29 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:51:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:51:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:51:29 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:51:29 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:51:58 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:51:58 | [INFO]    | Connecting to Discord...
+2022-08-22 16:51:59 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:51:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:51:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:51:59 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:51:59 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:52:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:52:22 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:52:22 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:52:22 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:52:22 | [INFO]    | Shard 0 : Reconnecting after 61169 ms...
+2022-08-22 16:53:08 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:53:08 | [INFO]    | Connecting to Discord...
+2022-08-22 16:53:08 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:53:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:53:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:53:08 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:53:08 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:53:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:53:24 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:53:24 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:53:24 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:53:24 | [INFO]    | Shard 0 : Reconnecting after 62522 ms...
+2022-08-22 16:53:43 | [INFO]    | Discordia 2.9.2
+2022-08-22 16:53:43 | [INFO]    | Connecting to Discord...
+2022-08-22 16:53:43 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 16:53:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 16:53:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:53:43 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:53:44 | [INFO]    | Shard 0 : Received READY
+2022-08-22 16:54:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:54:26 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:54:26 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:54:26 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:54:26 | [INFO]    | Shard 0 : Reconnecting after 59683 ms...
+2022-08-22 16:55:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:55:26 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:55:26 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:55:26 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:55:26 | [INFO]    | Shard 0 : Reconnecting after 59604 ms...
+2022-08-22 16:56:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:56:26 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:56:26 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:56:26 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:56:26 | [INFO]    | Shard 0 : Reconnecting after 58234 ms...
+2022-08-22 16:57:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:57:25 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:57:25 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:57:25 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:57:25 | [INFO]    | Shard 0 : Reconnecting after 57369 ms...
+2022-08-22 16:58:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:58:22 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:58:22 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:58:22 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:58:22 | [INFO]    | Shard 0 : Reconnecting after 64275 ms...
+2022-08-22 16:59:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 16:59:27 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 16:59:27 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 16:59:27 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 16:59:27 | [INFO]    | Shard 0 : Reconnecting after 55987 ms...
+2022-08-22 17:00:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:00:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:00:23 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 17:00:23 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 17:00:23 | [INFO]    | Shard 0 : Reconnecting after 54451 ms...
+2022-08-22 17:01:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:01:18 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:01:18 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 17:01:18 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 17:01:18 | [INFO]    | Shard 0 : Reconnecting after 59544 ms...
+2022-08-22 17:02:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:02:17 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:02:17 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 17:02:17 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 17:02:17 | [INFO]    | Shard 0 : Reconnecting after 56576 ms...
+2022-08-22 17:02:47 | [INFO]    | Discordia 2.9.2
+2022-08-22 17:02:47 | [INFO]    | Connecting to Discord...
+2022-08-22 17:02:48 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 17:02:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 17:02:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:02:48 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:02:48 | [INFO]    | Shard 0 : Received READY
+2022-08-22 17:03:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:03:14 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:03:14 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 17:03:14 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 17:03:14 | [INFO]    | Shard 0 : Reconnecting after 65903 ms...
+2022-08-22 17:03:37 | [INFO]    | Discordia 2.9.2
+2022-08-22 17:03:37 | [INFO]    | Connecting to Discord...
+2022-08-22 17:03:37 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 17:03:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 17:03:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:03:37 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:03:37 | [INFO]    | Shard 0 : Received READY
+2022-08-22 17:03:56 | [INFO]    | Discordia 2.9.2
+2022-08-22 17:03:56 | [INFO]    | Connecting to Discord...
+2022-08-22 17:03:56 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 17:03:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 17:03:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:03:57 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:03:57 | [INFO]    | Shard 0 : Received READY
+2022-08-22 17:04:03 | [INFO]    | Discordia 2.9.2
+2022-08-22 17:04:03 | [INFO]    | Connecting to Discord...
+2022-08-22 17:04:03 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 17:04:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 17:04:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:04:03 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:04:04 | [INFO]    | Shard 0 : Received READY
+2022-08-22 17:04:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:04:20 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:04:20 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2022-08-22 17:04:20 | [INFO]    | Shard 0 : Disconnected
+2022-08-22 17:04:20 | [INFO]    | Shard 0 : Reconnecting after 60655 ms...
+2022-08-22 17:04:36 | [INFO]    | Discordia 2.9.2
+2022-08-22 17:04:36 | [INFO]    | Connecting to Discord...
+2022-08-22 17:04:36 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 17:04:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 17:04:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:04:36 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:04:36 | [INFO]    | Shard 0 : Received READY
+2022-08-22 17:04:57 | [INFO]    | Discordia 2.9.2
+2022-08-22 17:04:57 | [INFO]    | Connecting to Discord...
+2022-08-22 17:04:57 | [INFO]    | Authenticated as Milky terry#9830
+2022-08-22 17:04:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 17:04:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 17:04:57 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 17:04:57 | [INFO]    | Shard 0 : Received READY
