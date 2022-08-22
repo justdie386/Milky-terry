@@ -36,15 +36,20 @@ local roly = discordia.Components {
           message:reply("You don't have the permission to use the command")
     end
   end
+  if message.content == "ratio" then
+    message:addReaction("👍")
+  end
 end)
 client:on("interactionCreate", function(interaction)
   local logsChannel, err = client:getChannel("1011291374232018996")
   if interaction.member:hasRole("829444502161850478") ~= true then
     interaction.member:addRole("829444502161850478")
     interaction:reply("Success")
-    logsChannel:send("Hello World!!")
-  else 
+    Creator = interaction.member.name
+    local time = (os.date ("%c"))
+    logsChannel:send(tostring(Creator).." has been roled the "..tostring(time).." EST")
+    else 
     interaction:reply("You already have those roles")
   end
 end)
-  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.G80Sx2.0hluQv2jWeLGSCuaiNBu74G4KmNvHVonC3_79s")
+  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.G0g4mG.6-nH92mY7cILkxZPnzYy8q_QDEopW0yjhPXKB0")

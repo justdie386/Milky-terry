@@ -632,3 +632,154 @@
 2022-08-21 19:54:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-08-21 19:54:16 | [INFO]    | Shard 0 : Received HELLO
 2022-08-21 19:54:16 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:12:49 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:12:49 | [INFO]    | Connecting to Discord...
+2022-08-22 08:12:49 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-08-22 08:12:49 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-08-22 08:13:12 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:13:12 | [INFO]    | Connecting to Discord...
+2022-08-22 08:13:12 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:13:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:13:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:13:12 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:13:12 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:14:01 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:14:01 | [INFO]    | Connecting to Discord...
+2022-08-22 08:14:02 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:14:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:14:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:14:02 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:14:02 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:14:37 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:14:37 | [INFO]    | Connecting to Discord...
+2022-08-22 08:14:38 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:14:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:14:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:14:38 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:14:38 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:15:10 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:15:10 | [INFO]    | Connecting to Discord...
+2022-08-22 08:15:10 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:15:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:15:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:15:10 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:15:10 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:15:27 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:15:27 | [INFO]    | Connecting to Discord...
+2022-08-22 08:15:27 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:15:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:15:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:15:27 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:15:27 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:16:51 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:16:51 | [INFO]    | Connecting to Discord...
+2022-08-22 08:16:51 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:16:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:16:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:16:51 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:16:51 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:17:23 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:17:23 | [INFO]    | Connecting to Discord...
+2022-08-22 08:17:23 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:17:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:17:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:17:23 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:17:23 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:17:36 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:17:36 | [INFO]    | Connecting to Discord...
+2022-08-22 08:17:36 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:17:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:17:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:17:36 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:17:36 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:17:46 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:17:46 | [INFO]    | Connecting to Discord...
+2022-08-22 08:17:47 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:17:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:17:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:17:47 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:17:47 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:18:17 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:18:17 | [INFO]    | Connecting to Discord...
+2022-08-22 08:18:18 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:18:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:18:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:18:18 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:18:18 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:18:32 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:18:32 | [INFO]    | Connecting to Discord...
+2022-08-22 08:18:32 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:18:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:18:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:18:32 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:18:32 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:20:07 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:20:07 | [INFO]    | Connecting to Discord...
+2022-08-22 08:20:07 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:20:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:20:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:20:08 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:20:08 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:21:21 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:21:21 | [INFO]    | Connecting to Discord...
+2022-08-22 08:21:21 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:21:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:21:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:21:21 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:21:22 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:23:36 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:23:36 | [INFO]    | Connecting to Discord...
+2022-08-22 08:23:36 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:23:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:23:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:23:36 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:23:36 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:23:59 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:23:59 | [INFO]    | Connecting to Discord...
+2022-08-22 08:23:59 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:23:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:23:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:23:59 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:23:59 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:26:43 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:26:43 | [INFO]    | Connecting to Discord...
+2022-08-22 08:26:43 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:26:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:26:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:26:43 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:26:44 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:27:21 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:27:21 | [INFO]    | Connecting to Discord...
+2022-08-22 08:27:21 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:27:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:27:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:27:21 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:27:21 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:27:34 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:27:34 | [INFO]    | Connecting to Discord...
+2022-08-22 08:27:35 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:27:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:27:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:27:35 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:27:35 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:27:48 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:27:48 | [INFO]    | Connecting to Discord...
+2022-08-22 08:27:48 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:27:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:27:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:27:48 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:27:48 | [INFO]    | Shard 0 : Received READY
+2022-08-22 08:28:28 | [INFO]    | Discordia 2.9.2
+2022-08-22 08:28:28 | [INFO]    | Connecting to Discord...
+2022-08-22 08:28:28 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 08:28:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 08:28:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 08:28:28 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 08:28:29 | [INFO]    | Shard 0 : Received READY
+2022-08-22 11:29:02 | [INFO]    | Discordia 2.9.2
+2022-08-22 11:29:02 | [INFO]    | Connecting to Discord...
+2022-08-22 11:29:02 | [INFO]    | Authenticated as altacc#9830
+2022-08-22 11:29:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-22 11:29:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-22 11:29:03 | [INFO]    | Shard 0 : Received HELLO
+2022-08-22 11:29:03 | [INFO]    | Shard 0 : Received READY
