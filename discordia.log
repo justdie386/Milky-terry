@@ -2238,3 +2238,59 @@
 2022-08-22 17:50:56 | [WARNING] | Shard 0 : 4004 - Authentication failed.
 2022-08-22 17:50:56 | [INFO]    | Shard 0 : Disconnected
 2022-08-22 17:50:56 | [INFO]    | Shard 0 : Reconnecting after 63693 ms...
+2022-08-23 15:34:59 | [INFO]    | Discordia 2.9.2
+2022-08-23 15:34:59 | [INFO]    | Connecting to Discord...
+2022-08-23 15:34:59 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-08-23 15:34:59 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-08-23 15:35:26 | [INFO]    | Discordia 2.9.2
+2022-08-23 15:35:26 | [INFO]    | Connecting to Discord...
+2022-08-23 15:35:26 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-08-23 15:35:26 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-08-23 15:35:28 | [INFO]    | Discordia 2.9.2
+2022-08-23 15:35:28 | [INFO]    | Connecting to Discord...
+2022-08-23 15:35:28 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2022-08-23 15:35:28 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2022-08-23 15:35:32 | [INFO]    | Discordia 2.9.2
+2022-08-23 15:35:32 | [INFO]    | Connecting to Discord...
+2022-08-23 15:35:32 | [INFO]    | Authenticated as 35th's aide#9830
+2022-08-23 15:35:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-23 15:35:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-23 15:35:33 | [INFO]    | Shard 0 : Received HELLO
+2022-08-23 15:35:33 | [INFO]    | Shard 0 : Received READY
+2022-08-23 16:22:45 | [INFO]    | Shard 0 : Disconnected
+2022-08-23 16:22:45 | [INFO]    | Shard 0 : Reconnecting after 912 ms...
+2022-08-23 16:22:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-23 16:22:47 | [INFO]    | Shard 0 : Received HELLO
+2022-08-23 16:22:47 | [INFO]    | Shard 0 : Received RESUMED
+2022-08-23 18:01:03 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-08-23 18:01:03 | [INFO]    | Shard 0 : Disconnected
+2022-08-23 18:01:03 | [INFO]    | Shard 0 : Reconnecting...
+2022-08-23 18:01:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-23 18:01:03 | [INFO]    | Shard 0 : Received HELLO
+2022-08-23 18:01:04 | [INFO]    | Shard 0 : Received RESUMED
+2022-08-23 18:35:03 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-08-23 18:35:03 | [INFO]    | Shard 0 : Disconnected
+2022-08-23 18:35:03 | [INFO]    | Shard 0 : Reconnecting...
+2022-08-23 18:35:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-23 18:35:03 | [INFO]    | Shard 0 : Received HELLO
+2022-08-23 18:35:03 | [INFO]    | Shard 0 : Received RESUMED
+2022-08-23 20:01:17 | [INFO]    | Shard 0 : Disconnected
+2022-08-23 20:01:17 | [INFO]    | Shard 0 : Reconnecting after 1032 ms...
+2022-08-23 20:01:18 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-08-23 20:01:18 | [INFO]    | Shard 0 : Reconnecting after 2150 ms...
+2022-08-23 20:01:20 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-08-23 20:01:20 | [INFO]    | Shard 0 : Reconnecting after 4170 ms...
+2022-08-23 20:01:24 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-08-23 20:01:24 | [INFO]    | Shard 0 : Reconnecting after 7842 ms...
+2022-08-23 20:01:32 | [ERROR]   | Shard 0 : Could not connect to wss://gateway.discord.gg (EAI_NONAME)
+2022-08-23 20:01:32 | [INFO]    | Shard 0 : Reconnecting after 16832 ms...
+2022-08-23 20:01:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-23 20:01:49 | [INFO]    | Shard 0 : Received HELLO
+2022-08-23 20:01:49 | [INFO]    | Shard 0 : Received RESUMED
+2022-08-24 11:26:36 | [INFO]    | Discordia 2.9.2
+2022-08-24 11:26:36 | [INFO]    | Connecting to Discord...
+2022-08-24 11:26:36 | [INFO]    | Authenticated as 35th's aide#9830
+2022-08-24 11:26:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-08-24 11:26:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-08-24 11:26:37 | [INFO]    | Shard 0 : Received HELLO
+2022-08-24 11:26:37 | [INFO]    | Shard 0 : Received READY
