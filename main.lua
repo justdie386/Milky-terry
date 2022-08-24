@@ -1,7 +1,5 @@
 local discordia = require("discordia")
 local client = discordia.Client()
-local sql = require "sqlite3"
-local conn = sql.open("data.sqlite")
 require("discordia-components")
 discordia.extensions()
 filewrite = io.open("logs.txt")
@@ -81,8 +79,7 @@ client:on("interactionCreate", function(interaction)
     }
     local id = interaction.user.id
     local name = interaction.user.name
-    conn:exec("INSERT OR IGNORE INTO data (id, name, time) VALUES('" .. id .. "','" .. name .. "','" .. time .. "')")
-    else 
+      else 
     interaction:reply("You already have those roles")
   end
 end)
