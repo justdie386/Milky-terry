@@ -117,3 +117,111 @@
 2022-09-02 18:34:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2022-09-02 18:34:30 | [INFO]    | Shard 0 : Received HELLO
 2022-09-02 18:34:30 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:19:32 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:19:32 | [INFO]    | Connecting to Discord...
+2022-09-22 18:19:32 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:19:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:19:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:19:33 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:19:33 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:21:24 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-22 18:23:19 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:23:19 | [INFO]    | Connecting to Discord...
+2022-09-22 18:23:19 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:23:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:23:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:23:19 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:23:19 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:23:51 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:23:51 | [INFO]    | Connecting to Discord...
+2022-09-22 18:23:52 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:23:52 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:23:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:23:52 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:23:52 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:24:59 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:24:59 | [INFO]    | Connecting to Discord...
+2022-09-22 18:24:59 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:24:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:24:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:24:59 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:24:59 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:26:51 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:26:51 | [INFO]    | Connecting to Discord...
+2022-09-22 18:26:51 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:26:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:26:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:26:51 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:26:51 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:27:00 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:27:00 | [INFO]    | Connecting to Discord...
+2022-09-22 18:27:00 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:27:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:27:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:27:00 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:27:00 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:27:04 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-22 18:27:04 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-22 18:27:35 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:27:35 | [INFO]    | Connecting to Discord...
+2022-09-22 18:27:36 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:27:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:27:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:27:36 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:27:36 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:28:16 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:28:16 | [INFO]    | Connecting to Discord...
+2022-09-22 18:28:16 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:28:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:28:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:28:16 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:28:17 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:28:22 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-22 18:29:15 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:29:15 | [INFO]    | Connecting to Discord...
+2022-09-22 18:29:15 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:29:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:29:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:29:15 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:29:15 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:29:21 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-22 18:31:19 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:31:19 | [INFO]    | Connecting to Discord...
+2022-09-22 18:31:19 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:31:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:31:19 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:31:19 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:31:20 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:32:08 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:32:08 | [INFO]    | Connecting to Discord...
+2022-09-22 18:32:08 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:32:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:32:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:32:08 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:32:08 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:32:13 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-22 18:32:14 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-22 18:32:14 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-22 18:32:15 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-22 18:32:15 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/channels/1005881381534052442/messages
+2022-09-22 18:33:08 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:33:08 | [INFO]    | Connecting to Discord...
+2022-09-22 18:33:08 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:33:08 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:33:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:33:09 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:33:09 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:33:59 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:33:59 | [INFO]    | Connecting to Discord...
+2022-09-22 18:34:00 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:34:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:34:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:34:00 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:34:00 | [INFO]    | Shard 0 : Received READY
+2022-09-22 18:35:02 | [INFO]    | Discordia 2.9.2
+2022-09-22 18:35:02 | [INFO]    | Connecting to Discord...
+2022-09-22 18:35:03 | [INFO]    | Authenticated as Ink#3645
+2022-09-22 18:35:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-22 18:35:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-22 18:35:03 | [INFO]    | Shard 0 : Received HELLO
+2022-09-22 18:35:03 | [INFO]    | Shard 0 : Received READY

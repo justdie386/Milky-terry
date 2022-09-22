@@ -30,22 +30,26 @@ if args[1] == "%role" then
   message:reply"List of users: "
   for member in message.guild.members:iter() do
     if member:hasRole(id) then
-      BG = BG.."\n"..member.name
+      BG = BG.."\n".."<@"..member.name..">"
     end
    end
    print(BG)
    message:reply(BG)
   end
-        if args[1] == "%role --no ping" then
+        if args[1] == "%role-no-ping" then
   table.remove(args, 1)
   local id = (table.concat(args, " "))
   message:reply"List of users: "
+  Beau = ""
   for member in message.guild.members:iter() do
     if member:hasRole(id) then
-      message:reply(member.name)
+      if member:hasRole(id) then                                                                                                                                                                                                            
+    Beau = Beau.."\n"..member.name
     end
    end
-  end
+   end
+   message:reply(Beau)
+ end
 end)
 
 
@@ -53,4 +57,4 @@ end)
   client:on('ready', function()
   client:setGame("Enlisting the 35th since 1700")
   end)
-  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.GS_Cwm.g-pEAWIXSfeu4qEk35025l0awgf4mUDNUzgM5o")
+  client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.GeeCQQ.mGZp3zVnDqsTsivR1wH0-cDOef56zNw2wsO3g4")
