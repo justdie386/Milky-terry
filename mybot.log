@@ -1,0 +1,19 @@
+2022-09-23 12:37:55 | [INFO]    | Discordia 2.9.2
+2022-09-23 12:37:55 | [INFO]    | Connecting to Discord...
+2022-09-23 12:37:55 | [ERROR]   | Could not authenticate, check token: C:/Users/justi/desktop/bot/deps/coro-http.lua:75: ECONNRESET
+2022-09-23 12:38:42 | [INFO]    | Discordia 2.9.2
+2022-09-23 12:38:42 | [INFO]    | Connecting to Discord...
+2022-09-23 12:38:42 | [ERROR]   | Could not authenticate, check token: C:/Users/justi/desktop/bot/deps/coro-http.lua:75: ECONNRESET
+2022-09-23 12:41:08 | [INFO]    | Discordia 2.9.2
+2022-09-23 12:41:08 | [INFO]    | Connecting to Discord...
+2022-09-23 12:41:08 | [ERROR]   | Could not authenticate, check token: C:/Users/justi/desktop/bot/deps/coro-http.lua:75: ECONNRESET
+2022-09-23 12:42:52 | [INFO]    | Discordia 2.9.2
+2022-09-23 12:42:52 | [INFO]    | Connecting to Discord...
+2022-09-23 12:42:52 | [ERROR]   | Could not authenticate, check token: C:/Users/justi/desktop/bot/deps/coro-http.lua:75: ECONNRESET
+2022-09-23 13:39:21 | [INFO]    | Discordia 2.9.2
+2022-09-23 13:39:21 | [INFO]    | Connecting to Discord...
+2022-09-23 13:39:21 | [INFO]    | Authenticated as Coordinates#4151
+2022-09-23 13:39:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-23 13:39:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-23 13:39:21 | [INFO]    | Shard 0 : Received HELLO
+2022-09-23 13:39:22 | [INFO]    | Shard 0 : Received READY
