@@ -4,6 +4,7 @@ local dcmd = require("discordia-commands")
 local autocomplete = require("autocomplete")
 local commandType = dia.enums.appCommandType
 local optionType = dia.enums.appCommandOptionType
+dia.extensions()
 local client = dia.Client{
 	logFile = 'mybot.log',
 	cacheAllMembers = true,
@@ -65,22 +66,51 @@ local function initializeCommands(guild)
         },
     })
     end
+    local function initializeCommands3(guild)
+        command, err = client:createGuildApplicationCommand(guild.id, {
+            type = commandType.chatInput,
+            name = "role",
+            description = ".",
+            options = {
+                {
+                    type = optionType.subCommand,
+                    name = "this",
+                    description = "name",
+                    options = {
+                        {
+                            type = optionType.user,
+                            name = "recruit",
+                            description = "recruit",
+                            required = true,
+                        },
+                        {
+                            type = optionType.user,
+                            name = "recruiter",
+                            description = "recruiter",
+                            required = true,
+                        },
+                    },
+                },
+            },
+        })
+    end
 
 client:on("ready", function()
     for guild in client.guilds:iter() do
+
         initializeCommands(guild)
         initializeCommands2(guild)
         initializeCommands1(guild)
+        initializeCommands3(guild)
     end
 end)
 client:on("slashCommand", function(interaction, command, args)
-    Base = ""
-    if interaction.data.name == "log" then
-        for member in interaction.member.voiceChannel.connectedMembers:iter() do        
-       local Member = Base        
-       Base = Member.."\n"..member.name
-    end
-    interaction:reply(Base)
+    if interaction.data.name == "role" then
+            print(args.this.recruiter)
+        local recruit = args.this.recruiter
+        print(recruit.name)
+       local success, err =  recruit:addRole("829444502161850478")
+       if err then print(err) end
     end
     BG = ""
     Beau = ""
@@ -105,5 +135,4 @@ client:on("slashCommand", function(interaction, command, args)
 end
 end)
     
-client:run("Bot OTMwMjc5OTcxOTgzODgwMjAz.GkInEc.Rzfars1kCTxJTWxkdCzancdYoM_E6dUA2t6emc")
-
+client:run("Bot eee")

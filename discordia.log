@@ -699,3 +699,111 @@
 2022-09-24 12:08:19 | [INFO]    | Shard 0 : Received HELLO
 2022-09-24 12:08:20 | [INFO]    | Shard 0 : Received READY
 2022-09-24 12:08:21 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/928677323782361128/guilds/802914516542554153/commands
+2022-09-24 12:13:16 | [INFO]    | Discordia 2.9.2
+2022-09-24 12:13:16 | [INFO]    | Connecting to Discord...
+2022-09-24 12:13:16 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-24 12:13:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-24 12:13:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 12:13:17 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 12:13:17 | [INFO]    | Shard 0 : Received READY
+2022-09-24 12:26:30 | [WARNING] | Shard 0 : Unhandled gateway event: THREAD_LIST_SYNC
+2022-09-24 12:27:10 | [INFO]    | Discordia 2.9.2
+2022-09-24 12:27:10 | [INFO]    | Connecting to Discord...
+2022-09-24 12:27:10 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-24 12:27:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-24 12:27:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 12:27:11 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 12:27:11 | [INFO]    | Shard 0 : Received READY
+2022-09-24 12:30:14 | [INFO]    | Discordia 2.9.2
+2022-09-24 12:30:14 | [INFO]    | Connecting to Discord...
+2022-09-24 12:30:14 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-24 12:30:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-24 12:30:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 12:30:14 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 12:30:15 | [INFO]    | Shard 0 : Received READY
+2022-09-24 12:31:11 | [INFO]    | Discordia 2.9.2
+2022-09-24 12:31:11 | [INFO]    | Connecting to Discord...
+2022-09-24 12:31:11 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-24 12:31:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-24 12:31:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 12:31:11 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 12:31:12 | [INFO]    | Shard 0 : Received READY
+2022-09-24 12:31:13 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/641329842058428416/commands
+2022-09-24 12:31:14 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/802914516542554153/commands
+2022-09-24 12:31:29 | [INFO]    | Discordia 2.9.2
+2022-09-24 12:31:29 | [INFO]    | Connecting to Discord...
+2022-09-24 12:31:29 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-24 12:31:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-24 12:31:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 12:31:29 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 12:31:30 | [INFO]    | Shard 0 : Received READY
+2022-09-24 12:31:33 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/802914516542554153/commands
+2022-09-24 12:31:34 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/641329842058428416/commands
+2022-09-24 12:31:45 | [INFO]    | Discordia 2.9.2
+2022-09-24 12:31:45 | [INFO]    | Connecting to Discord...
+2022-09-24 12:31:46 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-24 12:31:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-24 12:31:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 12:31:46 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 12:31:46 | [INFO]    | Shard 0 : Received READY
+2022-09-24 12:31:54 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/641329842058428416/commands
+2022-09-24 12:31:55 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/802914516542554153/commands
+2022-09-24 12:31:58 | [INFO]    | Discordia 2.9.2
+2022-09-24 12:31:58 | [INFO]    | Connecting to Discord...
+2022-09-24 12:31:58 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-24 12:31:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-24 12:31:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 12:31:59 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 12:31:59 | [INFO]    | Shard 0 : Received READY
+2022-09-24 12:32:14 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/802914516542554153/commands
+2022-09-24 12:32:15 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/641329842058428416/commands
+2022-09-24 12:37:44 | [INFO]    | Discordia 2.9.2
+2022-09-24 12:37:44 | [INFO]    | Connecting to Discord...
+2022-09-24 12:37:45 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-24 12:37:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-24 12:37:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 12:37:45 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 12:37:45 | [INFO]    | Shard 0 : Received READY
+2022-09-24 12:37:46 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/641329842058428416/commands
+2022-09-24 12:37:47 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/802914516542554153/commands
+2022-09-24 12:39:05 | [INFO]    | Discordia 2.9.2
+2022-09-24 12:39:05 | [INFO]    | Connecting to Discord...
+2022-09-24 12:39:05 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-24 12:39:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-24 12:39:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 12:39:05 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 12:39:05 | [INFO]    | Shard 0 : Received READY
+2022-09-24 12:39:06 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/802914516542554153/commands
+2022-09-24 12:39:07 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/641329842058428416/commands
+2022-09-24 12:40:52 | [INFO]    | Discordia 2.9.2
+2022-09-24 12:40:52 | [INFO]    | Connecting to Discord...
+2022-09-24 12:40:53 | [INFO]    | Authenticated as 35th's Quartermaster#9830
+2022-09-24 12:40:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-09-24 12:40:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 12:40:53 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 12:40:53 | [INFO]    | Shard 0 : Received READY
+2022-09-24 12:40:54 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/802914516542554153/commands
+2022-09-24 12:40:55 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v7/applications/930279971983880203/guilds/641329842058428416/commands
+2022-09-24 13:21:25 | [WARNING] | Uncached TextChannel (922459407084838942) on MESSAGE_CREATE
+2022-09-24 13:37:12 | [INFO]    | Shard 0 : Discord has requested a reconnection
+2022-09-24 13:37:12 | [INFO]    | Shard 0 : Disconnected
+2022-09-24 13:37:12 | [INFO]    | Shard 0 : Reconnecting...
+2022-09-24 13:37:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-09-24 13:37:12 | [INFO]    | Shard 0 : Received HELLO
+2022-09-24 13:37:12 | [INFO]    | Shard 0 : Received RESUMED
+2022-09-24 13:49:16 | [WARNING] | Shard 0 : Unhandled gateway event: GUILD_SCHEDULED_EVENT_UPDATE
+2022-09-24 13:57:58 | [WARNING] | Uncached TextChannel (1010935245886992464) on MESSAGE_CREATE
+2022-09-24 13:58:18 | [WARNING] | Uncached TextChannel (1010652901942755520) on MESSAGE_CREATE
+2022-09-24 14:14:43 | [WARNING] | Uncached TextChannel (922605678462390312) on MESSAGE_CREATE
+2022-09-24 14:23:10 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-24 14:23:36 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-24 14:26:06 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-24 14:26:46 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-24 14:26:50 | [WARNING] | Unhandled CHANNEL_UPDATE (type 13)
+2022-09-24 14:27:23 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_UPDATE
+2022-09-24 14:31:02 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_CREATE
+2022-09-24 15:40:06 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-24 15:40:25 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-24 15:40:57 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-24 15:40:59 | [WARNING] | Shard 0 : Unhandled gateway event: STAGE_INSTANCE_DELETE
+2022-09-24 15:59:52 | [WARNING] | Uncached TextChannel (922459407084838942) on MESSAGE_CREATE

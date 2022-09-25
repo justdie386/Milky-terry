@@ -38,3 +38,15 @@ command, err = client:createGuildApplicationCommand(guild.id, {
         },
     },
 })
+
+if interaction.data.name == "log" then
+    if interaction.member.voiceChannel ~= nil then
+    for member in interaction.member.voiceChannel.connectedMembers:iter() do        
+   local Member = Base        
+   Base = Member.."\n"..member.name
+end
+interaction:reply(Base)
+end
+else
+interaction:reply("Not in a vc")
+end
