@@ -1,18 +1,1 @@
-Ight so since i don't give a fuck about this bot anymore, imma just explain to all those braindead out to use it
-So open up a terminal, get in the folder called Milky-terry, admiting you downloaded it in your desktop, the commands would be
-cd Desktop
-cd Milky-terry
-./luvit main.lua
 
-If it says directory not found
-If you are on mac
-which Milky-terry
-It will give you the path so you can then cd *output of the command*
-On windows, same thing but use where, so it would be
-where Milky-terry
-dependencies should all be there but idk so here is the link to download luvit for both operating system
-https://luvit.io/install.html
-if all my bullshit doesn't work then either cry about it or slide in mmy dms
-Justdie#2686
-so just wanna mention tho, that for some reason it ain't workin no more, just says some errors when using %role commands so like try to fix it i guess but like cry about it im fuckin done with that shit
-thanks and have a good day :D
