@@ -1,1 +1,1 @@
-I don't give a shit so if you wanna use it read the FuckinRead file and it will say it all, good luck trying to understand man im fucking french (also the code is shit that i know and its also full of unused deps its just for ppl that don't have time to waste (just realised i never told yall what it did, i guess you will have to figure it out cuz i gtg right now) cya
+The code is broken, sadly enough, i lost the main script
